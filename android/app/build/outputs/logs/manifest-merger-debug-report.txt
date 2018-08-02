@@ -4,18 +4,31 @@ ADDED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-google-signin] /Users/alekseypolushin/Documents/clear/react-iss/node_modules/react-native-google-signin/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bed7bcf3e52b329555e39710c2a6df68/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/9b13547b271dbfe1f73f6b5994622738/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/e696e9aaca5b7f52b22472e9acd7ccdc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/471e4164680ab3344e92cb464bac03b7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/95f54616bce274d4a4395ee850d8036c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/06887b72f1ba409da86839ca35b01add/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/fc05bb2fcf7dd284d60fd6b631ba5c10/AndroidManifest.xml:10:1-18:12
 MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/bc5042a9ca93ba5283f40cc1d659be25/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/6a2644fed9578aadcdba51a4fdf20318/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9aa7e3064cf4eddc43c2ba743b61db45/AndroidManifest.xml:1:1-4:12
 MERGED from [org.webkit:android-jsc:r174650] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6ab4f7df1d1b683d7f33b28d1e6e9bc3/AndroidManifest.xml:1:1-3:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e67a2c51a533b38124d5ea7b30e1da3c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/04c80e5c96142996c2084c9f5c18c077/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dd1f05ffeb071c9bf62f89717907dd9c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f8f3c895162c7999db29ea421b894ccf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08abfab2e2f79e3e434ca26e835e7b27/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/ac3d0022e97ef9e30999e9108c790a87/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e965da0b5ca8df9459c34545c8b2fc1e/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/cbf0b21a74d4794eb4f3e0963b594c83/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/47c4769f7da6080daefd0e341a1c0104/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:17:1-30:12
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12
@@ -49,12 +62,32 @@ MERGED from [com.facebook.react:react-native:0.55.4] /Users/alekseypolushin/.gra
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bed7bcf3e52b329555e39710c2a6df68/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/9b13547b271dbfe1f73f6b5994622738/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/9b13547b271dbfe1f73f6b5994622738/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/e696e9aaca5b7f52b22472e9acd7ccdc/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/e696e9aaca5b7f52b22472e9acd7ccdc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/06887b72f1ba409da86839ca35b01add/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/06887b72f1ba409da86839ca35b01add/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:25:5-29:19
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9aa7e3064cf4eddc43c2ba743b61db45/AndroidManifest.xml:3:3-17
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9aa7e3064cf4eddc43c2ba743b61db45/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6ab4f7df1d1b683d7f33b28d1e6e9bc3/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6ab4f7df1d1b683d7f33b28d1e6e9bc3/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e67a2c51a533b38124d5ea7b30e1da3c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e67a2c51a533b38124d5ea7b30e1da3c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/04c80e5c96142996c2084c9f5c18c077/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/04c80e5c96142996c2084c9f5c18c077/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dd1f05ffeb071c9bf62f89717907dd9c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dd1f05ffeb071c9bf62f89717907dd9c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f8f3c895162c7999db29ea421b894ccf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f8f3c895162c7999db29ea421b894ccf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08abfab2e2f79e3e434ca26e835e7b27/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08abfab2e2f79e3e434ca26e835e7b27/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
@@ -93,12 +126,26 @@ uses-sdk
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-google-signin] /Users/alekseypolushin/Documents/clear/react-iss/node_modules/react-native-google-signin/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/alekseypolushin/Documents/clear/react-iss/node_modules/react-native-google-signin/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bed7bcf3e52b329555e39710c2a6df68/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/bed7bcf3e52b329555e39710c2a6df68/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/9b13547b271dbfe1f73f6b5994622738/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/9b13547b271dbfe1f73f6b5994622738/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/e696e9aaca5b7f52b22472e9acd7ccdc/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/e696e9aaca5b7f52b22472e9acd7ccdc/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/471e4164680ab3344e92cb464bac03b7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/471e4164680ab3344e92cb464bac03b7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/95f54616bce274d4a4395ee850d8036c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/95f54616bce274d4a4395ee850d8036c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/06887b72f1ba409da86839ca35b01add/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/06887b72f1ba409da86839ca35b01add/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:21:5-23:54
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/fc05bb2fcf7dd284d60fd6b631ba5c10/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/fc05bb2fcf7dd284d60fd6b631ba5c10/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/bc5042a9ca93ba5283f40cc1d659be25/AndroidManifest.xml:5:5-7:41
@@ -107,6 +154,16 @@ MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/alekseypolu
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/6a2644fed9578aadcdba51a4fdf20318/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9aa7e3064cf4eddc43c2ba743b61db45/AndroidManifest.xml:2:3-70
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9aa7e3064cf4eddc43c2ba743b61db45/AndroidManifest.xml:2:3-70
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e67a2c51a533b38124d5ea7b30e1da3c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e67a2c51a533b38124d5ea7b30e1da3c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/04c80e5c96142996c2084c9f5c18c077/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/04c80e5c96142996c2084c9f5c18c077/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dd1f05ffeb071c9bf62f89717907dd9c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dd1f05ffeb071c9bf62f89717907dd9c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f8f3c895162c7999db29ea421b894ccf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f8f3c895162c7999db29ea421b894ccf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08abfab2e2f79e3e434ca26e835e7b27/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08abfab2e2f79e3e434ca26e835e7b27/AndroidManifest.xml:21:5-23:58
 MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/ac3d0022e97ef9e30999e9108c790a87/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/ac3d0022e97ef9e30999e9108c790a87/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e965da0b5ca8df9459c34545c8b2fc1e/AndroidManifest.xml:5:5-7:41
@@ -115,8 +172,12 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/alekseypolushi
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/cbf0b21a74d4794eb4f3e0963b594c83/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/47c4769f7da6080daefd0e341a1c0104/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/47c4769f7da6080daefd0e341a1c0104/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
@@ -125,9 +186,63 @@ INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/m
 		INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/01602ced965f19cccdecc4e3c2ea3532/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3e42c8c40aec35b196b74ff2e2ce78e2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/384b67aaa70af13d16b709de8d787405/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e67a2c51a533b38124d5ea7b30e1da3c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e67a2c51a533b38124d5ea7b30e1da3c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/04c80e5c96142996c2084c9f5c18c077/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/04c80e5c96142996c2084c9f5c18c077/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dd1f05ffeb071c9bf62f89717907dd9c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dd1f05ffeb071c9bf62f89717907dd9c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f8f3c895162c7999db29ea421b894ccf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f8f3c895162c7999db29ea421b894ccf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08abfab2e2f79e3e434ca26e835e7b27/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08abfab2e2f79e3e434ca26e835e7b27/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9c7d964d1192466db65bde709f28560a/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /Users/alekseypolushin/Documents/clear/react-iss/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alekseypolushin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f174e2e557cf8217025b5aaf781786db/AndroidManifest.xml:26:13-58

@@ -1,4 +1,4 @@
-#Thu Aug 02 11:09:12 MSK 2018
+#Thu Aug 02 15:48:00 MSK 2018
 base.0=/Users/alekseypolushin/Documents/clear/react-iss/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex
