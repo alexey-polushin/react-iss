@@ -1,0 +1,4 @@
+#Thu Aug 02 11:02:13 MSK 2018
+base.0=/Users/alekseypolushin/Documents/clear/react-iss/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/alekseypolushin/Documents/clear/react-iss/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
